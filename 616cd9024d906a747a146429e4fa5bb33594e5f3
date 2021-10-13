@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba717764_672ba01e",
+        "filename": "src/RHEL_support/rhel_support.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 586
+      },
+      "writtenOn": "2021-10-13T15:35:07Z",
+      "side": 1,
+      "message": "supports",
+      "revId": "616cd9024d906a747a146429e4fa5bb33594e5f3",
+      "serverId": "6c1dc8ef-8b94-40e4-bd83-c2359d45ecc0",
+      "unresolved": true
+    }
+  ]
+}
