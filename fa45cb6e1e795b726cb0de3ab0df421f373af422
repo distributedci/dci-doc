@@ -1,0 +1,9 @@
+Code-Review+1: Michael Burke <miburke@redhat.com>
+Code-Review+2: Guillaume Vincent <gvincent@redhat.com>
+Workflow+1: Guillaume Vincent <gvincent@redhat.com>
+Verified+2: Zuul CI <zuul@softwarefactory-project.io>
+Submitted-by: Zuul CI <zuul@softwarefactory-project.io>
+Submitted-at: Mon, 18 Oct 2021 09:03:49 +0000
+Reviewed-on: https://softwarefactory-project.io/r/c/dci-doc/+/22882
+Project: dci-doc
+Branch: refs/heads/master
