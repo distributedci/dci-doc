@@ -8,16 +8,18 @@ projects="dci-control-server dci-ui python-dciclient python-dciauth dci-download
 for project in ${projects}
 do
     echo ${project}
-    rm -rf ${temp_folder}/src/${project}
-    mkdir ${temp_folder}/src/${project}
-    cp ../${project}/README* ${temp_folder}/src/${project}/
-    cp -r ../${project}/docs/ ${temp_folder}/src/${project}/docs/ 2>/dev/null || true
+    rm -rf ${temp_folder}/docs/${project}
+    mkdir ${temp_folder}/docs/${project}
+    cp ../${project}/README* ${temp_folder}/docs/${project}/
+    cp -r ../${project}/docs/ ${temp_folder}/docs/${project}/docs/ 2>/dev/null || true
 done
 pushd ${temp_folder}
-npm install
-npm run build
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+mkdocs build
 popd
-rm -rf ./docs
-mkdir ./docs
-cp -r ${temp_folder}/_book/* ./docs/
+rm -rf ./site
+mkdir ./site
+cp -r ${temp_folder}/site/* ./site/
 rm -rf ${temp_folder}
