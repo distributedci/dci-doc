@@ -1,5 +1,5 @@
 Name:        dci-doc
-Version:     0.0.VERS
+Version:     0.2.0
 Release:     1%{?dist}
 Summary:     The Official documentation of Distributed-CI
 
@@ -23,6 +23,7 @@ served by a web server.
 
 %install
 install -d %{buildroot}/var/www/html/docs
+ls
 cp -r * %{buildroot}/var/www/html/docs
 
 
@@ -31,5 +32,7 @@ cp -r * %{buildroot}/var/www/html/docs
 
 
 %changelog
-* Tue Oct 24 2017 Yanis Guenane  <yguenane@redhat.com> 0.0.1-1
+* Mon Jan 24 2022 Guillaume Vincent <gvincent@redhat.com> 0.2.0-1
+- Use mkdocs
+* Tue Oct 24 2017 Yanis Guenane <yguenane@redhat.com> 0.0.1-1
 - Initial commit
