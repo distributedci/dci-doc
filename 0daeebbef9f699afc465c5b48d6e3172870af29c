@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6a042a3c_3d6235ab",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 667
+      },
+      "writtenOn": "2022-06-24T20:17:53Z",
+      "side": 1,
+      "message": "LGTM, I reviewed the artifacts and see the docs were built",
+      "revId": "0daeebbef9f699afc465c5b48d6e3172870af29c",
+      "serverId": "6c1dc8ef-8b94-40e4-bd83-c2359d45ecc0"
+    }
+  ]
+}
