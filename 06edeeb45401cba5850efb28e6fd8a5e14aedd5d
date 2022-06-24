@@ -39,6 +39,30 @@
       },
       "revId": "06edeeb45401cba5850efb28e6fd8a5e14aedd5d",
       "serverId": "6c1dc8ef-8b94-40e4-bd83-c2359d45ecc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8c982fc8_eefa9bc9",
+        "filename": "build.sh",
+        "patchSetId": 2
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 20
+      },
+      "writtenOn": "2022-06-24T12:07:29Z",
+      "side": 1,
+      "message": "ok. changed in the next iteration.",
+      "parentUuid": "dcfaf355_2624b042",
+      "range": {
+        "startLine": 11,
+        "startChar": 4,
+        "endLine": 11,
+        "endChar": 153
+      },
+      "revId": "06edeeb45401cba5850efb28e6fd8a5e14aedd5d",
+      "serverId": "6c1dc8ef-8b94-40e4-bd83-c2359d45ecc0"
     }
   ]
 }
