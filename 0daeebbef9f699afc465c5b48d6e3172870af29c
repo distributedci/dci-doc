@@ -1,0 +1,9 @@
+Code-Review+1: Tatiana Krishtop <tkrishto@redhat.com>
+Code-Review+2: Tony Garcia <tonyg@redhat.com>
+Workflow+1: Tony Garcia <tonyg@redhat.com>
+Verified+2: Zuul CI <zuul@softwarefactory-project.io>
+Submitted-by: Zuul CI <zuul@softwarefactory-project.io>
+Submitted-at: Fri, 24 Jun 2022 20:24:53 +0000
+Reviewed-on: https://softwarefactory-project.io/r/c/dci-doc/+/25322
+Project: dci-doc
+Branch: refs/heads/master
