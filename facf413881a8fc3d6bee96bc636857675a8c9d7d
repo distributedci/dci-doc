@@ -1,0 +1,8 @@
+Code-Review+2: Bill Peck <bill@pecknet.com>
+Workflow+1: Jorge Gallegos <jgallego@redhat.com>
+Verified+2: Zuul CI <zuul@softwarefactory-project.io>
+Submitted-by: Zuul CI <zuul@softwarefactory-project.io>
+Submitted-at: Fri, 04 Nov 2022 17:29:12 +0000
+Reviewed-on: https://softwarefactory-project.io/r/c/dci-doc/+/26590
+Project: dci-doc
+Branch: refs/heads/master
