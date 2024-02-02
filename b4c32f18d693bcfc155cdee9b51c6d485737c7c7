@@ -1,0 +1,90 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "66b554f8_59723dc5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 800
+      },
+      "writtenOn": "2024-02-02T09:52:04Z",
+      "side": 1,
+      "message": "some suggestions from my side",
+      "revId": "b4c32f18d693bcfc155cdee9b51c6d485737c7c7",
+      "serverId": "6c1dc8ef-8b94-40e4-bd83-c2359d45ecc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ae4836c4_b4415961",
+        "filename": "src/general_concepts.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 800
+      },
+      "writtenOn": "2024-02-02T09:52:04Z",
+      "side": 1,
+      "message": "can we put a link to that section?",
+      "range": {
+        "startLine": 11,
+        "startChar": 134,
+        "endLine": 11,
+        "endChar": 155
+      },
+      "revId": "b4c32f18d693bcfc155cdee9b51c6d485737c7c7",
+      "serverId": "6c1dc8ef-8b94-40e4-bd83-c2359d45ecc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "65008c7e_56000a38",
+        "filename": "src/general_concepts.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 800
+      },
+      "writtenOn": "2024-02-02T09:52:04Z",
+      "side": 1,
+      "message": "I wonder if there could be a link to that docs here",
+      "range": {
+        "startLine": 22,
+        "startChar": 398,
+        "endLine": 22,
+        "endChar": 423
+      },
+      "revId": "b4c32f18d693bcfc155cdee9b51c6d485737c7c7",
+      "serverId": "6c1dc8ef-8b94-40e4-bd83-c2359d45ecc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "609880e3_8053db28",
+        "filename": "src/get_started.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 800
+      },
+      "writtenOn": "2024-02-02T09:52:04Z",
+      "side": 1,
+      "message": "16GB?",
+      "range": {
+        "startLine": 21,
+        "startChar": 179,
+        "endLine": 21,
+        "endChar": 183
+      },
+      "revId": "b4c32f18d693bcfc155cdee9b51c6d485737c7c7",
+      "serverId": "6c1dc8ef-8b94-40e4-bd83-c2359d45ecc0"
+    }
+  ]
+}
