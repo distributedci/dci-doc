@@ -43,6 +43,30 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "5d4716d0_7bf1e179",
+        "filename": "src/general_concepts.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1440
+      },
+      "writtenOn": "2024-02-05T13:11:24Z",
+      "side": 1,
+      "message": "It\u0027s not one section, it\u0027s one section per product.",
+      "parentUuid": "ae4836c4_b4415961",
+      "range": {
+        "startLine": 11,
+        "startChar": 134,
+        "endLine": 11,
+        "endChar": 155
+      },
+      "revId": "b4c32f18d693bcfc155cdee9b51c6d485737c7c7",
+      "serverId": "6c1dc8ef-8b94-40e4-bd83-c2359d45ecc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "65008c7e_56000a38",
         "filename": "src/general_concepts.md",
         "patchSetId": 1
@@ -54,6 +78,30 @@
       "writtenOn": "2024-02-02T09:52:04Z",
       "side": 1,
       "message": "I wonder if there could be a link to that docs here",
+      "range": {
+        "startLine": 22,
+        "startChar": 398,
+        "endLine": 22,
+        "endChar": 423
+      },
+      "revId": "b4c32f18d693bcfc155cdee9b51c6d485737c7c7",
+      "serverId": "6c1dc8ef-8b94-40e4-bd83-c2359d45ecc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "439a2cab_3f80520d",
+        "filename": "src/general_concepts.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1440
+      },
+      "writtenOn": "2024-02-05T13:11:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "65008c7e_56000a38",
       "range": {
         "startLine": 22,
         "startChar": 398,
@@ -77,6 +125,30 @@
       "writtenOn": "2024-02-02T09:52:04Z",
       "side": 1,
       "message": "16GB?",
+      "range": {
+        "startLine": 21,
+        "startChar": 179,
+        "endLine": 21,
+        "endChar": 183
+      },
+      "revId": "b4c32f18d693bcfc155cdee9b51c6d485737c7c7",
+      "serverId": "6c1dc8ef-8b94-40e4-bd83-c2359d45ecc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "44a5341a_05ee90f9",
+        "filename": "src/get_started.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1440
+      },
+      "writtenOn": "2024-02-05T13:11:24Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "609880e3_8053db28",
       "range": {
         "startLine": 21,
         "startChar": 179,
