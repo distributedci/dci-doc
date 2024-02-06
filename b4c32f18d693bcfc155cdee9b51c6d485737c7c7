@@ -65,6 +65,30 @@
       "serverId": "6c1dc8ef-8b94-40e4-bd83-c2359d45ecc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "1d08cf2b_649cb6fb",
+        "filename": "src/general_concepts.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 800
+      },
+      "writtenOn": "2024-02-06T08:29:51Z",
+      "side": 1,
+      "message": "Ack",
+      "parentUuid": "5d4716d0_7bf1e179",
+      "range": {
+        "startLine": 11,
+        "startChar": 134,
+        "endLine": 11,
+        "endChar": 155
+      },
+      "revId": "b4c32f18d693bcfc155cdee9b51c6d485737c7c7",
+      "serverId": "6c1dc8ef-8b94-40e4-bd83-c2359d45ecc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "65008c7e_56000a38",
