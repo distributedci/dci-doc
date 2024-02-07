@@ -1,0 +1,10 @@
+Code-Review+2: Ramon Perez <raperez@redhat.com>
+Workflow+1: Guillaume Vincent <gvincent@redhat.com>
+Code-Review+1: Michael Burke <miburke@redhat.com>
+Verified+2: Zuul CI <zuul@softwarefactory-project.io>
+Code-Review+2: Guillaume Vincent <gvincent@redhat.com>
+Submitted-by: Zuul CI <zuul@softwarefactory-project.io>
+Submitted-at: Wed, 07 Feb 2024 09:23:08 +0000
+Reviewed-on: https://softwarefactory-project.io/r/c/dci-doc/+/30722
+Project: dci-doc
+Branch: refs/heads/master
