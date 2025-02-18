@@ -1,0 +1,11 @@
+Code-Review+1: François Charlier <francois.charlier@redhat.com>
+Verified+2: Zuul CI <zuul@softwarefactory-project.io>
+Verified+2: Frederic Lepied <flepied@redhat.com>
+Workflow+1: Guillaume Vincent <gvincent@redhat.com>
+Code-Review+2: Guillaume Vincent <gvincent@redhat.com>
+Workflow+1: Frederic Lepied <flepied@redhat.com>
+Submitted-by: Zuul CI <zuul@softwarefactory-project.io>
+Submitted-at: Tue, 18 Feb 2025 10:24:24 +0000
+Reviewed-on: https://softwarefactory-project.io/r/c/dci-doc/+/33045
+Project: dci-doc
+Branch: refs/heads/master
