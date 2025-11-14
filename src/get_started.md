@@ -28,7 +28,7 @@ A remoteci contains the information necessary for the authentication of your jum
 
 The name of your remoteci does not matter. But if there are several of you working on the same jumphost, give your remoteci an explicit name.
 
-After creating your remoteci, copy the contents of the dcirc.sh file (Authentication column of your `remoteci > dcirc.sh > Copy to clipboard`), and save it on a file in your jumphost (e.g. `~/dcirc.sh`).
+After creating your remoteci, copy the contents of the dcirc.sh file, and save it on a file in your jumphost (e.g. `~/dcirc.sh`).
 
 ## Install the DCI client on your jumphost
 

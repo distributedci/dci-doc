@@ -18,7 +18,7 @@ The other part of the configuration is agent-specific, and changes depending on 
 
 ## Secure communication between the agent and the control server
 
-Each time you run a DCI tool that communicates with the control server, the latter will look for 3 environment variables (`DCI_CLIENT_ID`, `DCI_API_SECRET` and `DCI_CS_URL`). These variables are saved in a **dcirc.sh** or **credentials.yaml** file. These variables are attached to a resource called a **remoteci**. You create a remoteci on the user interface (We explain this in more detail in the [get started](get_started) documentation) and you save the variables into the dcirc.sh or credentials.yaml file on your jumphost.
+Each time you run a DCI tool that communicates with the control server, the latter will look for 3 environment variables (`DCI_CLIENT_ID`, `DCI_API_SECRET` and `DCI_CS_URL`). These variables are saved in a **dcirc.sh** or **credentials.yaml** file. These variables are attached to a resource called a **remoteci**. You create a remoteci on the user interface (We explain this in more detail in the [get started](../get_started) documentation) and you save the variables into the dcirc.sh or credentials.yaml file on your jumphost.
 
 Often there is only one remoteci per jumphost. But if you are several engineers working on the same jumphost, you can have several remotecis. You will launch the correct file before launching an agent (for example: `source /etc/dci-rhel-agent/dcirc.sh && dci-rhel-agent-ctl start`)
 
